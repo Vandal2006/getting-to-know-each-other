@@ -1,6 +1,9 @@
+/* Author: Henry Gilson
+change 3 added a font family */
 ul li {
     list-style-type: square;
   }
   body {
+    font-family: Verdana, sans-serif;
     background: lightcyan;
 }
